@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "request": "^2.79.0",
     "body": "^5.1.0",
     "cfenv": "1.0.x",
     "cors": "^2.8.1",
@@ -13,8 +14,7 @@
     "firebase": "^3.6.10",
     "https": "^1.0.0",
     "moment": "^2.17.1",
-    "parser": "^0.1.4",
-    "request": "^2.79.0"
+    "parser": "^0.1.4"
   },
   "repository": {},
   "engines": {

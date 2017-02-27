@@ -60,7 +60,7 @@ router.get('api/', function(req, res) {
 
 });
 
-// START THE SERVER
+// START THE SERVER,
 // =============================================================================
 app.listen(port);
 console.log('Magic happens on port ' + port);
